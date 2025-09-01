@@ -1,2 +1,2 @@
 # shpun
-shpun.github.io
+https://shpun.github.io
